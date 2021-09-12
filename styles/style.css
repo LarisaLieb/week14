@@ -1,0 +1,12 @@
+div {
+    display: block;
+    text-align: center;
+    color: rgb(13, 13, 14);
+    margin: 60px 60px 60px 60px;
+    background-color: rgb(245, 225, 223);
+}
+
+.selected {
+    color: cornsilk;
+    background-color: rgba(226, 120, 179, 0.8);
+}
